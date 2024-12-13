@@ -10,4 +10,6 @@ public class InventarioPmtApplication {
 		SpringApplication.run(InventarioPmtApplication.class, args);
 	}
 
-}
+	}
+
+
